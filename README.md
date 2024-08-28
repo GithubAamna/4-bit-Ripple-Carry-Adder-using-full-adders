@@ -11,5 +11,5 @@ A full adder is a combinational circuit that add three 1-bit binary digits to pe
 Following files are included in this repository:
 - [4-bit Ripple Carry Adder using full adder.v](https://github.com/GithubAamna/4-bit-Ripple-Carry-Adder-using-full-adders/blob/main/4-Bit%20Ripple%20Carry%20Adder%20using%20Full%20Adder.v).This file contains the verilog code for making a ripple carry adder.
 - [Testbench.v](https://github.com/GithubAamna/4-bit-Ripple-Carry-Adder-using-full-adders/blob/main/TestBench.v). This file contains the testbench code for providing stimulus and testing the desired functionality.
-- [RTL Schematics.png](https://github.com/GithubAamna/4-bit-Ripple-Carry-Adder-using-full-adders/blob/main/RTL%20Analysis.png) . This image shows the RTL Analysis.
+- [RTL Schematics.png](https://github.com/GithubAamna/4-bit-Ripple-Carry-Adder-using-full-adders/blob/main/RTL%20Schematics.png) . This image shows the RTL Schematics.
 - [Simulation Results](https://github.com/GithubAamna/4-bit-Ripple-Carry-Adder-using-full-adders/blob/main/Simulation%20Waveform.png).png This image shows the simulation results.
